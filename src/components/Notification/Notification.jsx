@@ -7,4 +7,4 @@ export const Notification = ({ warningText }) => (
 
 Notification.propTypes = {
     warningText: propTypes.string.isRequired,
-}
+};
